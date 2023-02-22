@@ -19,4 +19,4 @@ This is a mod of the original MYP bottom cover designed to accept 2mm heated ins
 This is a bushing that can be used in place of the bearings for Wkerstens leg parts. The busing will provide a stiffer movement which should eliminate, or at least reduce, any servo jitter you may experience. AS the name suggests, the inside diameter of the bushing is 10.15mm. You may experience size differences depending on the printer and/or filamnent used.
 
 # Wkerstens_LegCover_Front.stl / Wkerstens_LegCover_Rear.stl:
-This is a purely cosmetic option for the Wkerstens leg parts. The "Front" version snaps into the gap in the front part of each femur, while the "Rear" version snaps into the rear gap. It is recommended to print them as you see them, using supports, for the best looking finish.
+This is a purely cosmetic option for the Wkerstens leg parts. I designed them to compliment the tibia shields as you may notice they have a similar shape. The "Front" version snaps into the gap in the front part of each femur, while the "Rear" version snaps into the rear gap. It is recommended to print them as you see them, using supports, for the best looking finish.
